@@ -1,0 +1,10 @@
+body {
+    background-image: url(bc.jpg);
+}
+button {
+    display: flex;
+    justify-content: center;
+    margin: 25rem 30rem;
+    font-size: 3rem;
+    cursor: pointer;
+}
